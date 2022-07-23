@@ -1,0 +1,84 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.login-section{
+    width: 100%;
+}
+.login-box{
+    width: 550px;
+    margin: 150px auto;
+    background-color: #eeeeee;
+    padding: 50px;
+}
+.image{
+    width: 100%;
+    text-align: center;
+    
+}
+.image img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.login-box h1{
+    text-align: center;
+    font-size: 28px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 25px 0px;
+
+}
+.login-form{
+    width: 100%;
+
+}
+.form-group{
+    width: 100%;
+    margin: 15px 0px;
+}
+.form-group label{
+    font-size: 14px;
+    font-weight: 700px;
+    color: #000;
+    display: block;
+    text-transform: uppercase;
+    margin: 0px 0px 5px;
+}
+.form-group .form-control{
+    width: 100%;
+    padding: 15px;
+    font-size: 14px;
+    color: #777;
+    border: 2px solid black;
+}
+.form-group .btn{
+    padding: 15px 45px;
+    background-color: #000;
+    color: #fff;
+    border: 2px solid #000;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 700px;
+}
+a{
+
+    padding: 5px ;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(106, 20, 5);
+    text-align: left;
+    text-decoration: none;
+    background-color: cornflowerblue;
+    border: 2px solid rgba(43, 1, 1, 0.763);
+    border-radius: 70px;
+
+}
+a:hover{
+    color: coral;
+    background-color: yellow;
+}
+.anchor {
+    text-align: right;
+}
+
